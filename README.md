@@ -1,2 +1,3 @@
 # mouse-trajectory-obfuscator
 RP2040 firmware for a hardware-level mouse trajectory obfuscator and synthetic jitter generator.
+https://buymeacoffee.com/briancreilly AI uses mouse movements as a method of fingerprinting.  This prevents that by putting jitters and movements into your mouse that will prevent tracking and identifying you.  Please modify this and add anything I might have forgotten.  And buy me a coffee.  Also, search under my name for a Raspberry PI typing obfuscator, which does the same anti fingerprinting thing with your keyboard.  # "mouse-trajectory-obfuscator" The way you type is like the game twenty questions; simple to figure out who you are in about three seconds.  )
